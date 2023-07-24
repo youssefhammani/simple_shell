@@ -61,3 +61,7 @@ This project is licensed under the *MIT License*.
 
 Feel free to modify, distribute, and use this code for educational purposes.
 
+## Contributors
+
+*This project was developed by Youssef Hammani and Khaoula Ouardi as part of the ALX SE program. It was guided by the instructions and specifications provided by Julien Barbier.*
+
