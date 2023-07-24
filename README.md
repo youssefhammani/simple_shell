@@ -12,3 +12,7 @@ Simple Shell is a command line interpreter developed as a group project for the 
 * Contributors
 * License
 
+## Description
+
+The Simple Shell project is an implementation of a basic UNIX command interpreter. It provides a prompt where users can enter commands, executes them, and displays the output. The shell supports command lines with arguments and handles errors appropriately.
+
