@@ -28,3 +28,14 @@ To use the Simple Shell, follow these steps:
 
 4. Enter commands at the prompt and press Enter to execute them.
 
+***Example:***
+
+```shell
+$ ./hsh
+$ ls
+file1.txt  file2.txt  directory
+$ pwd
+/home/user/simple_shell
+$ exit
+```
+
