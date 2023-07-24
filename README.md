@@ -55,3 +55,7 @@ The Simple Shell has the following requirements:
 
 * gcc compiler
 
+## Contributors
+
+*This project was developed by Youssef Hammani and Khaoula Ouardi as part of the ALX SE program. It was guided by the instructions and specifications provided by Julien Barbier.*
+
