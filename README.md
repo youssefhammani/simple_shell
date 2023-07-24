@@ -55,3 +55,9 @@ The Simple Shell has the following requirements:
 
 * gcc compiler
 
+## License
+
+This project is licensed under the *MIT License*.
+
+Feel free to modify, distribute, and use this code for educational purposes.
+
