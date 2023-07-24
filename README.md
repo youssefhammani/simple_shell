@@ -39,3 +39,11 @@ $ pwd
 $ exit
 ```
 
+## Features
+
+To install the Simple Shell, follow these steps:
+
+1. Clone the repository: **`git clone <repository-url>`**
+
+2. Compile the shell: **`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`**
+
