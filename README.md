@@ -47,3 +47,11 @@ To install the Simple Shell, follow these steps:
 
 2. Compile the shell: **`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`**
 
+## Requirements
+
+The Simple Shell has the following requirements:
+
+* Ubuntu 20.04 LTS
+
+* gcc compiler
+
